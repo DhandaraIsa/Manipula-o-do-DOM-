@@ -1,0 +1,11 @@
+{
+  "name": "manipulacao-do-dom-spa",
+  "version": "1.0.0",
+  "description": "SPA de exemplo para manipulação do DOM, templates e validação",
+  "type": "module",
+  "scripts": {
+    "test": "node js/tests/run-tests.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
